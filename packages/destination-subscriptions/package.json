@@ -1,6 +1,6 @@
 {
 	"name": "@segment/destination-subscriptions",
-	"version": "3.8.0",
+	"version": "3.8.1-alpha.0",
 	"description": "Validate event payload using subscription AST",
 	"license": "MIT",
 	"repository": {
@@ -87,5 +87,6 @@
 			"path": "dist/cjs/index.js",
 			"limit": "29 KB"
 		}
-	]
+	],
+	"gitHead": "c7225278e5838d1850a332cb70786dacd55556f0"
 }
